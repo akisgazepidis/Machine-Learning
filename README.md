@@ -16,4 +16,4 @@ The dataset i chose was cleaned.The cleaned data set contains information of:
 
 Duplicate listings were removed and the columns cleaned.There were no missing values.
 
-In the end my best model was XgBoostRegressor. It reached a R2 score: 0.949. This means that the 94.9% of the variability of the price depends on the other characteristics and the rest 5.1% from other factors.  
+In the end my best model was XgBoostRegressor. It reached a R2 score: 0.949 and a Mean Absolut Error: 1704,19. This means that the 94,9% of the variability of the price depends on the other characteristics and the rest 5,1% from other factors.  
